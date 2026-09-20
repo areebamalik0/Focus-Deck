@@ -6,14 +6,14 @@ A desktop focus and task-management app built in Java Swing. Instead of a flat t
 
 ## Features
 
-- **Draggable task cards** — custom-painted with a glowing accent border, no external image assets
+- **Draggable task cards** —> custom-painted with a glowing accent border, no external image assets
 - **Add tasks** through a simple form (title + optional note)
-- **Drag-to-complete** — drop a card on the done zone to finish it, animated with `javax.swing.Timer`
-- **Drag-to-reorder** — drop anywhere else in the deck and cards re-sort by position
-- **Pomodoro session timer** — start / pause / reset, 25-minute default focus block
-- **Local persistence** — tasks save to a text file next to the app, so your deck survives a restart
-- **Stats bar** — tasks completed today, total completed, and a live progress bar
-- **Custom dark UI** — gradient background, gradient-text header, and a hand-built color palette
+- **Drag-to-complete** —> drop a card on the done zone to finish it, animated with `javax.swing.Timer`
+- **Drag-to-reorder** —> drop anywhere else in the deck and cards re-sort by position
+- **Pomodoro session timer** —> start / pause / reset, 25-minute default focus block
+- **Local persistence** —> tasks save to a text file next to the app, so your deck survives a restart
+- **Stats bar** —> tasks completed today, total completed, and a live progress bar
+- **Custom dark UI** —> gradient background, gradient-text header, and a hand-built color palette
 
 ## Tech stack
 
@@ -54,9 +54,9 @@ FocusDeck/
   README.md
 ```
 
-## Roadmap / possible next steps
+## Roadmap 
 
-- Swap the plain-text save file for a real database (SQLite)
+- Swap the plain text save file for a real database (SQLite)
 - Add task categories or color tags
 - Add a settings panel for custom timer lengths
 - Package as a runnable `.jar` or native installer
