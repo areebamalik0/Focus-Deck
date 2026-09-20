@@ -1,9 +1,9 @@
 # Focus Deck
 
-A desktop focus and task-management app built in Java Swing. Instead of a flat to-do list, tasks live as draggable cards in a deck — drag a card onto the drop zone to complete it, with a slide-and-fade animation, or drag cards around to reorder them by priority. A Pomodoro-style session timer runs alongside the deck, and a stats bar tracks completed tasks over time.
+A desktop focus and task-management app built in Java Swing. Instead of a flat to-do list, tasks live as draggable cards in a deck, drag a card onto the drop zone to complete it, with a slide and fade animation, or drag cards around to reorder them by priority. A Pomodoro-style session timer runs alongside the deck, and a stats bar tracks completed tasks over time.
 
 ![Focus Deck screenshot](screenshot1.png)
-![Focus Deck screenshor](screenshot2.png)
+![Focus Deck screenshot](screenshot2.png)
 
 ## Features
 
